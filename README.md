@@ -17,6 +17,11 @@ These quick tips are **not**:
 - Comprehensive, from-the-ground-up tutorials
 - Exclusive to Aivia users
 
+## Related Blog Posts
+
+1. [Reading, Showing, and Writing Images](https://www.drvtechnologies.com/post/python-quick-tip-1-reading-showing-and-writing-images)
+2. [Plotting Image Histograms](https://www.drvtechnologies.com/post/python-quick-tip-2-plotting-image-histograms)
+
 ## More Information
 
 See our introductory post about ImageJ and Python Scripting Tips [here](https://www.drvtechnologies.com/post/introducing-imagej-and-python-scripting-tips).
