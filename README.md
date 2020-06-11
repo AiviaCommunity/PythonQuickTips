@@ -21,6 +21,7 @@ These quick tips are **not**:
 
 1. [Reading, Showing, and Writing Images](https://www.drvtechnologies.com/post/python-quick-tip-1-reading-showing-and-writing-images)
 2. [Plotting Image Histograms](https://www.drvtechnologies.com/post/python-quick-tip-2-plotting-image-histograms)
+3. [Thresholding with NumPy](https://www.drvtechnologies.com/post/python-quick-tip-3-thresholding-with-numpy)
 
 ## More Information
 
