@@ -22,6 +22,7 @@ These quick tips are **not**:
 1. [Read Show Write Images](https://www.drvtechnologies.com/post/python-quick-tip-1-reading-showing-and-writing-images)
 2. [Histograms with Ravel](https://www.drvtechnologies.com/post/python-quick-tip-2-plotting-image-histograms)
 3. [Masking](https://www.drvtechnologies.com/post/python-quick-tip-3-thresholding-with-numpy)
+4. [Batching](https://www.drvtechnologies.com/post/python-quick-tip-4-batching-over-files-in-a-directory)
 
 ## More Information
 
